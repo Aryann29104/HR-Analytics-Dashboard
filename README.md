@@ -1,5 +1,8 @@
 # HR Analytics Dashboard – Power BI
 
+## Dashboard
+https://app.powerbi.com/links/CqtCvRlrbe?ctid=c30f7e5d-d78c-44b6-be17-02d4b3e5cd5c&pbi_source=linkShare
+
 ## Overview
 Interactive dashboard analyzing employee attrition, engagement, tenure, and training effectiveness.
 
